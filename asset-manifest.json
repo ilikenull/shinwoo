@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shinwoo/static/css/main.210e08c7.css",
-    "main.js": "/shinwoo/static/js/main.5af82d75.js",
+    "main.js": "/shinwoo/static/js/main.53cb789c.js",
     "static/js/787.1ed0c42c.chunk.js": "/shinwoo/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/shinwoo/index.html",
     "main.210e08c7.css.map": "/shinwoo/static/css/main.210e08c7.css.map",
-    "main.5af82d75.js.map": "/shinwoo/static/js/main.5af82d75.js.map",
+    "main.53cb789c.js.map": "/shinwoo/static/js/main.53cb789c.js.map",
     "787.1ed0c42c.chunk.js.map": "/shinwoo/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.210e08c7.css",
-    "static/js/main.5af82d75.js"
+    "static/js/main.53cb789c.js"
   ]
 }
